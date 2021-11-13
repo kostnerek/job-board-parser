@@ -5,7 +5,7 @@ Scraps data from popular polish job boards: [justjoin.it](http://justjoin.it "ju
 ### TODO
 I am planning to deploy this app to RaspberryPi, and add some notification using propably Flask
 ### Config
-- go ahead and download [geckodriver](http://https://github.com/mozilla/geckodriver/releases "geckodriver") and put it in main directory of app
+- go ahead and download [geckodriver](https://github.com/mozilla/geckodriver/releases "geckodriver") and put it in main directory of app
 - go on and get links to sites from which you want to scrap data
 - put those links in **conf.json** format them as shown below
 
