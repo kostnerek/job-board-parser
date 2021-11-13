@@ -4,9 +4,11 @@ data/*
 # exception to the rule
 !data/.gitkeep 
 /geckodriver.log
+/geckodriver.exe
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 /__pycache__
+/geckodriver.exe
