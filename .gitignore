@@ -5,4 +5,7 @@ data/*
 !data/.gitkeep 
 /geckodriver.log
 
-/__pycache__
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
