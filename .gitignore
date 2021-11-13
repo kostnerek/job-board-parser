@@ -4,3 +4,5 @@ data/*
 # exception to the rule
 !data/.gitkeep 
 /geckodriver.log
+
+/__pycache__
